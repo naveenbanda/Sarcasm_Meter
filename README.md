@@ -14,3 +14,6 @@ Saved diveded pos and neg DB as .npy files:
 
 - BernaoulliNB
 - MultinomialNB
+
+2. Final Model: Utilized Linear Dirichlet Allocation (LDA) for topic modeling and other basic features like bigrams for the classification.
+
